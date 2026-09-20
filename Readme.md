@@ -4,10 +4,6 @@ A **FHIR R4-compliant terminology micro-service** that integrates India's NAMAST
 
 ## 🎯 Problem Statement
 
-**ID:** 25026  
-**Organization:** Ministry of Ayush  
-**Department:** All India Institute of Ayurveda (AIIA)
-
 Develop API code to integrate NAMASTE and the International Classification of Diseases (ICD-11) via the Traditional Medicine Module 2 (TM2) into existing EMR systems that comply with Electronic Health Record (EHR) Standards for India.
 
 ## 🚀 Key Features
@@ -30,7 +26,7 @@ Develop API code to integrate NAMASTE and the International Classification of Di
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CodexRaunak/NAMASTE-ICD-11-Integration.git
+   git clone https://github.com/GuY-Gits/NAMASTE-ICD-map
    cd NAMASTE-ICD-11-Integration
    ```
 
